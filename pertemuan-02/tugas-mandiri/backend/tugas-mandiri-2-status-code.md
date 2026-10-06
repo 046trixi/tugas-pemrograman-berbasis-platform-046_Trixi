@@ -22,5 +22,20 @@ Kode 500 (Internal Server Error) menandakan bahwa server mengalami kendala inter
 
 Tidak. Error HTTP tidak selalu menandakan server rusak. Error berkode 4xx (seperti 400 atau 404) umumnya disebabkan oleh kesalahan pada request client atau halaman yang dicari tidak ada. Hanya error berkode 5xx (seperti 500) yang menunjukkan adanya masalah atau kendala teknis pada sisi server.
 
-## table
-|status code|arti|hasil pengujian|kapan digunakan|
+## table pengujian
+|Status Code|Arti|Hasil Pengujian|Kapan Digunakan|
+|---:|---|---:|---|
+|200|OK/Berhasil|Permintaan berhasil diproses oleh server|Saat permintaan berhasil dan data dapat diberikan|
+|201|Created|permintaan berhasil dan data/resource berhasil dibuat|Saat membuat data baru|
+|400|Bad Request|permintaan yang di kirim tidak valid|Saat data atau permintaan dari client salah|
+|401|Unauthorized|Client belum melakukan autentikasi yang diperlukan|Saat akses membutuhkan logen atau token tapi belum diberikan|
+|403|Forbidden|Server memahami tapi menolak akses|Saat user tidak memiliki izin mengakses resource|
+|404|Not Found|Resource atau endpoint yang diminta tidak ditemukan|Saat URL/resource tidak tersedia|
+|500|Internal Server Error|Terjadi kesalahan pada sisi server|Server mengalami error saat memproses permintaan|
+
+## screenshoot pengujian
+## 200
+![hasil pengujian get](../screenshoot/200-TM2.PNG)
+
+## 404
+![hasil pengujian get](../screenshoot/404-TM2.PNG)
