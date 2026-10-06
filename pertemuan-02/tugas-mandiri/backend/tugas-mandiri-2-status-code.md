@@ -21,3 +21,6 @@ Kode 500 (Internal Server Error) menandakan bahwa server mengalami kendala inter
 ### 4. Apakah semua error HTTP berarti server mengalami kerusakan?
 
 Tidak. Error HTTP tidak selalu menandakan server rusak. Error berkode 4xx (seperti 400 atau 404) umumnya disebabkan oleh kesalahan pada request client atau halaman yang dicari tidak ada. Hanya error berkode 5xx (seperti 500) yang menunjukkan adanya masalah atau kendala teknis pada sisi server.
+
+## table
+|status code|arti|hasil pengujian|kapan digunakan|
