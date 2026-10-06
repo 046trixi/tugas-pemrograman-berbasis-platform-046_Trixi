@@ -80,7 +80,7 @@ Server berhasil menerima Request Delete
 
 ## screenshoot pengujian
 ## GET
-https://github.com/046trixi/tugas-pemrograman-berbasis-platform-046_Trixi/blob/main/pertemuan-02/tugas-mandiri/screenshoot/get-TM1.PNG
+![hasil pengujian get](screnshoot/get-TM1.png)
 
 ## POST
-https://github.com/046trixi/tugas-pemrograman-berbasis-platform-046_Trixi/blob/main/pertemuan-02/tugas-mandiri/screenshoot/POST-TM1.PNG
+![hasil pengujian get](screnshoot/POST-TM1.png)
