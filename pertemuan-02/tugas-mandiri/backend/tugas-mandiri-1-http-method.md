@@ -80,7 +80,7 @@ Server berhasil menerima Request Delete
 
 ## screenshoot pengujian
 ## GET
-![hasil pengujian get](screnshoot/get-TM1.PNG)
+![hasil pengujian get](screenshoot/get-TM1.PNG)
 
 ## POST
-![hasil pengujian get](screnshoot/POST-TM1.PNG)
+![hasil pengujian get](screenshoot/POST-TM1.PNG)
