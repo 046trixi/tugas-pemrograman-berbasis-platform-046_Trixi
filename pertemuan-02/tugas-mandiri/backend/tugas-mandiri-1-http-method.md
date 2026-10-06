@@ -69,6 +69,10 @@ Status: 200 OK
 Hasil:
 Server berhasil menerima Request Delete
 
+## TABLE HASIL PENGUJIAN
+|NO|METHOD|ENDPOINT|DATA YANG DI KIRIM|STATUS|HASIL|
+|---:|---|---|---|---:|---|
+|1|GET|'/GET'|Nama, prodi melalui query|200|Data quey berhasil diterima server|
 ## screenshoot pengujian
 ## GET
 https://github.com/046trixi/tugas-pemrograman-berbasis-platform-046_Trixi/blob/main/pertemuan-02/tugas-mandiri/screenshoot/get-TM1.PNG
