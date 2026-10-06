@@ -45,3 +45,11 @@ Komponen metadata pada protokol HTTP yang memuat informasi tambahan terkait tran
 ### 5. Apa perbedaan data pada URL dengan data pada request body?
 
 Data pada URL terekspos secara terbuka di dalam string alamat web melalui query parameter. Sebaliknya, data request body terenkapsulasi di dalam muatan (payload) request, yang umumnya digunakan pada metode HTTP seperti POST, PUT, dan PATCH.
+
+##  screenshoot pengujian
+
+### get Headers
+![hasil pengujian get](../screenshoot/getheaders-TM3.PNG)
+
+### get nama
+![hasil pengujian get](../screenshoot/getnama-TM3.PNG)
