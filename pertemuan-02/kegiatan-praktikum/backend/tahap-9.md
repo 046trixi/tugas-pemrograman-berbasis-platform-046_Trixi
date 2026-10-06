@@ -11,19 +11,27 @@
 |8|GET /api/v1/alamat-salah|Menampilkan respons 404 ketika endpoint yang diminta tidak tersedia|Server mengembalikan 404 Not Found dengan status false serta pesan bahwa route GET /api/v1/alamat-salah tidak ditemukan|
 
 ## bukti screenshoot
-## 1.
+## 1./api/v1
 ![hasil pengujian get](../screenshoot/tahap9-1.PNG)
 
-## 2.
+## 2./api/v1/jadwal?status=aktif
+![hasil pengujian get](../screenshoot/tahap9-2.PNG)
 
-## 3.
+## 3./api/v1/jadwal/abc
+![hasil pengujian get](../screenshoot/tahap9-3.PNG)
 
-## 4.
+## 4./api/v1/jadwal/99
+![hasil pengujian get](../screenshoot/tahap9-4.PNG)
 
-## 5.
+## 5./api/v1/jadwal dengan body valid
+![hasil pengujian get](../screenshoot/tahap9-5.PNG)
 
-## 6.
+## 6./api/v1/jadwal/1/peserta
+![hasil pengujian get](../screenshoot/tahap9-6.PNG)
 
-## 7.
+## 7./api/v1/jadwal/1/peserta/103
+![hasil pengujian get](../screenshoot/tahap9-7.PNG)
 
-## 8.
+## 8./api/v1/alamat-salah
+![hasil pengujian get](../screenshoot/tahap9-8.PNG)
+
