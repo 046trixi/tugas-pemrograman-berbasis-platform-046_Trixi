@@ -72,7 +72,12 @@ Server berhasil menerima Request Delete
 ## TABLE HASIL PENGUJIAN
 |NO|METHOD|ENDPOINT|DATA YANG DI KIRIM|STATUS|HASIL|
 |---:|---|---|---|---:|---|
-|1|GET|'/GET'|Nama, prodi melalui query|200|Data quey berhasil diterima server|
+|1|GET|'/get'|Nama, prodi melalui query|200|Data quey berhasil diterima server|
+|2|POST|'/post'|JSON nama dan prodi|200|Data JSON berhasil di terima|
+|3|PUT|'/put'|JSON nama, prodi, semester|200|Data berhasil diterima|
+|4|PATCH|'/patch'|JSON semester|200|Data perumahan berhasil diterima|
+|5|DELETE|'/delete'|Tidak ada|200|Request DELETE berhasil diterima|
+
 ## screenshoot pengujian
 ## GET
 https://github.com/046trixi/tugas-pemrograman-berbasis-platform-046_Trixi/blob/main/pertemuan-02/tugas-mandiri/screenshoot/get-TM1.PNG
