@@ -45,7 +45,7 @@ Tangkapan layar versi component-based dan utility-first pada kedua ukuran layar 
 
 ### Component-Based
 
-![Hasil pengujian component](../screenshoot/component.PNG)
+[![Hasil pengujian component](../screenshoot/component.PNG)](https://raw.githubusercontent.com/046trixi/tugas-pemrograman-berbasis-platform-046_Trixi/refs/heads/main/pertemuan-03/tugas-mandiri/screenshoot/component.PNG)
 
 ### Utility-First
 
