@@ -43,10 +43,10 @@ Kedua halaman diuji pada tampilan laptop dan lebar layar 360 px. Pada ukuran 360
 
 Tangkapan layar versi component-based dan utility-first pada kedua ukuran layar disertakan sebagai bukti pengujian.
 
-### Component-Based
+### Hasil Pengujian Component
 
-[![Hasil pengujian component](../screenshoot/component.PNG)](https://raw.githubusercontent.com/046trixi/tugas-pemrograman-berbasis-platform-046_Trixi/refs/heads/main/pertemuan-03/tugas-mandiri/screenshoot/component.PNG)
+![Hasil pengujian component](../../screenshoot/component.PNG)
 
-### Utility-First
+### Hasil Pengujian Utility
 
-![Hasil pengujian utility](../screenshoot/utility.PNG)
+![Hasil pengujian utility](../../screenshoot/utility.PNG)
