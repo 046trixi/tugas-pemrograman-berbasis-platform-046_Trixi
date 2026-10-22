@@ -49,4 +49,4 @@ Tangkapan layar versi component-based dan utility-first pada kedua ukuran layar 
 
 ### Hasil Pengujian Utility
 
-![Hasil pengujian utility](../../screenshoot/utility.PNG)
+![hasil pengujian utility](../../screenshoot/utilty.PNG)
