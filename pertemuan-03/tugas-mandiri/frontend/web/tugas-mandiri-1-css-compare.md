@@ -43,4 +43,4 @@ Kedua halaman diuji pada tampilan laptop dan lebar layar 360 px. Pada ukuran 360
 
 Tangkapan layar versi component-based dan utility-first pada kedua ukuran layar disertakan sebagai bukti pengujian.
 ### component
-![hasil pengujian component](../screenshoot/component.PNG)
+![hasil pengujian component](../screenshoot/utilty.PNG)
