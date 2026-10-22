@@ -42,5 +42,6 @@ Namun, pilihan tersebut tetap bergantung pada kebutuhan proyek, kompleksitas des
 Kedua halaman diuji pada tampilan laptop dan lebar layar 360 px. Pada ukuran 360 px, kartu menggunakan lebar yang menyesuaikan ruang yang tersedia sehingga tidak menimbulkan scroll horizontal.
 
 Tangkapan layar versi component-based dan utility-first pada kedua ukuran layar disertakan sebagai bukti pengujian.
-### component
-![hasil pengujian component](../screenshoot/utilty.PNG)
+
+### Hasil Pengujian Component
+![Hasil pengujian component-based](../screenshoot/component.PNG)
